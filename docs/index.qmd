@@ -105,11 +105,17 @@ nipa <- list(red = "#c03018",
 
 -   **2018 - 2020**: Research Fellow / Lecturer \@ Monash
 
-    -   Design and improve tools for EDA
+    -   Design and improve tools for EDA with [Di Cook](https://www.dicook.org/)
 
 -   **2021 - 2024**: **Research Software Engineer** \@ ~~Telethon Kids Institute~~ The Kids Research Institute
 
     -   Maintain and design tools for data analysis
+    
+## An interlude
+
+- 2023
+  - May - October: Hiked the [Pacific Crest Trail](https://en.wikipedia.org/wiki/Pacific_Crest_Trail)
+  - I'll come back to this at the end.
 
 ## Define: Research Software Engineer
 
@@ -920,7 +926,7 @@ SPECTRUM-SPARK Seed Funding
 
 `r icon_box` [github.com/idem-lab/conmat](https://github.com/idem-lab/conmat)
 
-`r icon_bullhorn` [njtierney.github.io/conmat-tki-2024](njtierney.github.io/conmat-tki-2024)
+`r icon_bullhorn` [njtierney.github.io/conmat-numbat-2024](njtierney.github.io/conmat-numbat-2024)
 
 `r icon_globe` [njtierney.com](https://www.njtierney.com/)
 
@@ -937,6 +943,15 @@ SPECTRUM-SPARK Seed Funding
 
 # Extras
 
+# The PCT
+
+- ~2,650 Miles (~4,270Km)
+- Mexico to Canada
+- 151 Days
+- 6 pairs of shoes
+- 3 pairs of sunglasses
+- Blogged at: <njt.micro.blog>
+- Some photos (shown on laptop)
 
 ## Create A Next Generation Matrix
 
